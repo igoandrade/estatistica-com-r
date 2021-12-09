@@ -14,3 +14,5 @@ dados <- read.csv('./data/database-aula02.csv', sep=";", dec=",")
 
 ## Visualização dos dados
 View(dados)
+
+print("Olá mundo")
